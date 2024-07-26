@@ -9,3 +9,6 @@
 ### TECHNICAL SKILLS:
 
 Jira, Confluence, TestRail, Chrome Development Tool, Charles Proxy, Fiddler, Android Studio, Xcode, Test Flight, App Center, BrowserStack, Sauce Labs, MySQL, Proxyman, Postman, Git, GitHub, HTML, CSS.
+# Привет! 👋
+
+## Меня зовут <span class="highlight">[Ваше Имя]</span> 🧑‍💻
