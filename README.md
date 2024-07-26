@@ -10,14 +10,3 @@
 
 Jira, Confluence, TestRail, Chrome Development Tool, Charles Proxy, Fiddler, Android Studio, Xcode, Test Flight, App Center, BrowserStack, Sauce Labs, MySQL, Proxyman, Postman, Git, GitHub, HTML, CSS.
 
-<span style="font-size:24px; font-weight:bold; animation: colorchange 2s infinite;">
-  Ruslan
-</span>
-
-<style>
-  @keyframes colorchange {
-    0% { color: black; }
-    50% { color: red; }
-    100% { color: black; }
-  }
-</style>
