@@ -10,6 +10,3 @@
 
 Jira, Confluence, TestRail, Chrome Development Tool, Charles Proxy, Fiddler, Android Studio, Xcode, Test Flight, App Center, BrowserStack, Sauce Labs, MySQL, Proxyman, Postman, Git, GitHub, HTML, CSS.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;This+is+a+typing+animation!)](https://git.io/typing-svg)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
