@@ -7,7 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/ruslan-asadullin-us/)
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:ruslan.asadullin.us@gmail.com)
 ---
+## 🔧 Technologies
 
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
+---
 
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
 - Proficient in various testing methodologies including Black box, Gray Box, Smoke testing, Functional testing, Regression testing, UI, UAT, as well as API (Postman) and database testing (MySQL).
