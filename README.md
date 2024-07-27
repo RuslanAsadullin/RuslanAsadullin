@@ -9,7 +9,7 @@
 ---
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=java,selenium,html,css,php,mongodb,sql,mysql,docker,md,git,bash,jquery,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=java,selenium,html,css,php,mongodb,mysql,docker,md,git,bash,jquery,nginx,vscode&theme=light)
 ---
 
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
