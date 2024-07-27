@@ -1,5 +1,5 @@
 # Hi there! My name is Ruslan Asadullin and I am a Manual QA Engineer!
-
+![MY cool](https://github.com/RuslanAsadullin/img/blob/main/header.png)
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
 - Proficient in various testing methodologies including Black box, Gray Box, Smoke testing, Functional testing, Regression testing, UI, UAT, as well as API (Postman) and database testing (MySQL).
 - Capable of developing and organizing clear test cases and efficiently executing them.
