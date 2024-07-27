@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;Third+line+of+text&font=Times+New+Roman&duration=5000&color=000000)](https://git.io/typing-svg)
+
 
 ![MY cool](https://github.com/RuslanAsadullin/img/blob/main/header.png)
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
