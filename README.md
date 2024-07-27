@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&random=false&width=435&height=105&lines=Ruslan+Asadullin;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA&color=FF5733)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&random=false&width=435&height=105&lines=Ruslan+Asadullin;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA&font=Apple+Chancery&color=000000&duration=2000)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&random=false&width=435&height=105&lines=Ruslan+Asadullin;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA&font=Apple+Chancery&color=000000&duration=2000&size=30&weight=bold)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;Third+line+of+text&font=Times+New+Roman&duration=5000&color=000000)](https://git.io/typing-svg)
