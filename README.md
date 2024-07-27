@@ -2,12 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&random=false&width=435&height=105&lines=Ruslan+Asadullin;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA&font=Apple+Chancery&color=000000&duration=3000&size=30)](https://git.io/typing-svg)
 
 ---
-## 📫Contact with me:
+## 📫 Contact with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/ruslan-asadullin-us/)
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:ruslan.asadullin.us@gmail.com)
 ---
-## 🔧 Technologies
+## 🔧 Technologies:
 
 ![skills](https://skillicons.dev/icons?i=java,selenium,html,css,php,mongodb,mysql,docker,svg,md,git,gitlab,bash,nginx,vscode&theme=light)
 ---
