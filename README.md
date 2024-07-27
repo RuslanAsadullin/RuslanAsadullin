@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&random=false&width=435&height=105&lines=Ruslan+Asadullin;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA&font=Apple+Chancery&color=000000&duration=3000&size=30)](https://git.io/typing-svg)
 
 ---
-
+***
 
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
 - Proficient in various testing methodologies including Black box, Gray Box, Smoke testing, Functional testing, Regression testing, UI, UAT, as well as API (Postman) and database testing (MySQL).
