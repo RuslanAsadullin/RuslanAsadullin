@@ -11,7 +11,7 @@
 
 ![skills](https://skillicons.dev/icons?i=java,selenium,html,css,php,mongodb,mysql,docker,svg,md,git,gitlab,bash,nginx,vscode&theme=light)
 ---
-
+![BEPb's github contribution graph snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
 - Proficient in various testing methodologies including Black box, Gray Box, Smoke testing, Functional testing, Regression testing, UI, UAT, as well as API (Postman) and database testing (MySQL).
 - Capable of developing and organizing clear test cases and efficiently executing them.
