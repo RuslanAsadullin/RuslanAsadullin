@@ -9,7 +9,7 @@
 ---
 ## 🔧 Technologies:
 
-![skills](https://skillicons.dev/icons?i=java,selenium,html,css,php,mongodb,mysql,docker,svg,md,git,gitlab,bash,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=java,selenium,html,css,postman,mongodb,mysql,docker,svg,md,git,gitlab,bash,nginx,vscode&theme=light)
 ---
 ![BEPb's github contribution graph snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 - Experienced and ambitious QA analyst with a track record of testing web and mobile applications in an Agile environment.
