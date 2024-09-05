@@ -22,7 +22,7 @@ I have over **3 years of experience** in the IT industry, specializing in Qualit
 ---
 ## 🔧 Technologies:
 
-![skills](https://skillicons.dev/icons?i=java,selenium,html,css,postman,mongodb,mysql,docker,svg,md,git,gitlab,bash,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=java,selenium,html,css,postman,mongodb,mysql,docker,svg,jenkins,git,gitlab,bash,nginx,vscode&theme=light)
 
 ---
 ## 🚀 Projects
